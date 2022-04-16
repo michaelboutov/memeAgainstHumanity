@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\flutter\\pure_main\\build\\sign_in_with_apple\\intermediates\\res\\merged\\release\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\08ef8dc644d2c4e230c0f4ecbdf9bcc4\\core-1.6.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "478",
+                        "endColumns": "100",
+                        "endOffsets": "574"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\502d53ddf87396fe029a5ed68662a5ce\\browser-1.2.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,264,374",
+                        "endColumns": "105,102,109,103",
+                        "endOffsets": "156,259,369,473"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\flutter\\pure_main\\build\\sign_in_with_apple\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\08ef8dc644d2c4e230c0f4ecbdf9bcc4\\core-1.6.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "478",
+                        "endColumns": "100",
+                        "endOffsets": "574"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\502d53ddf87396fe029a5ed68662a5ce\\browser-1.2.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,264,374",
+                        "endColumns": "105,102,109,103",
+                        "endOffsets": "156,259,369,473"
+                    }
+                }
+            ]
+        }
+    ]
+}

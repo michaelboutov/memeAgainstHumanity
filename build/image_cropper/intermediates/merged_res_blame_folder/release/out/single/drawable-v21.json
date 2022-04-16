@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\flutter\\pure_main\\build\\image_cropper\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\08ef8dc644d2c4e230c0f4ecbdf9bcc4\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\flutter\\pure_main\\build\\image_cropper\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\acc92945ca3d5a71db29c082e7e32eb5\\appcompat-1.3.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\flutter\\pure_main\\build\\image_cropper\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\acc92945ca3d5a71db29c082e7e32eb5\\appcompat-1.3.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\flutter\\pure_main\\build\\image_cropper\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\acc92945ca3d5a71db29c082e7e32eb5\\appcompat-1.3.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\flutter\\pure_main\\build\\image_cropper\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\acc92945ca3d5a71db29c082e7e32eb5\\appcompat-1.3.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\flutter\\pure_main\\build\\image_cropper\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\micha\\.gradle\\caches\\transforms-2\\files-2.1\\acc92945ca3d5a71db29c082e7e32eb5\\appcompat-1.3.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

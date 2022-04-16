@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">743279535428-gj6sdesfr7svbikvhpmgttsvi2gc181d.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">743279535428</string>
+    <string name="google_api_key" translatable="false">AIzaSyAI73oafbtfURT66aYGy7AURYQPaZ-iBzQ</string>
+    <string name="google_app_id" translatable="false">1:743279535428:android:7fc86b7ded22a925072311</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAI73oafbtfURT66aYGy7AURYQPaZ-iBzQ</string>
+    <string name="google_storage_bucket" translatable="false">meme-against-humanity-7bbe9.appspot.com</string>
+    <string name="project_id" translatable="false">meme-against-humanity-7bbe9</string>
+</resources>
