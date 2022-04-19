@@ -16,7 +16,7 @@ class GifRepository {
 
 Future<GifModel> _getGif() async {
   final response = await http.get(Uri.parse(
-      'https://api.giphy.com/v1/gifs/random?api_key=1PNdL7ZqznUIb2EANUbOX2wZAc2faMRf&tag=meme'));
+      'https://api.giphy.com/v1/gifs/random?api_key=[yourApikey]&tag=meme'));
 
   GifModel _gif = GifModel('', '', '');
 
