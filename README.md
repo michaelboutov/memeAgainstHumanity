@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/76702524/163900757-897a8844-c4d6-403f-
 ![photo_2022-04-17_06-20-40](https://user-images.githubusercontent.com/76702524/163900880-cf122f0e-2778-4cf7-8f8d-a2352ec86d44.jpg)
 
 
-## Getting Started 🚀
+
 
 
 
